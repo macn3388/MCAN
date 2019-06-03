@@ -1,5 +1,7 @@
 # MCAN
 
+This code is based on https://github.com/nmhkahn/CARN-pytorch.
+
 ### Test Pretrained Models
 ```shell
 $ python3 mcan/sample.py --model mcan-fast \
